@@ -3,10 +3,10 @@
   font-size: 20px;
 }
 .container::after {
-  color: red;
+  color: #f00;
   content: 'After Element';
 }
 .container::before {
-  color: red;
+  color: #f00;
   content: 'Before Element';
 }
